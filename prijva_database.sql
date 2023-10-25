@@ -1,4 +1,3 @@
--- Prvo, DROP bazu podataka ako već postoji (ukoliko želite ponovno stvoriti bazu podataka):
 DROP DATABASE IF EXISTS prijava;
 
 CREATE DATABASE prijava;
